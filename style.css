@@ -1,0 +1,51 @@
+h1{
+ color: green;
+ font-style: italic;
+ font-weight: 800;
+ text-align: left;
+}
+img{
+    height: 250px;
+    width:  200px;
+    background-color: purple;
+    overflow: scroll;
+}
+p{
+color: brown !important;
+font-size: 3em;
+text-align: center;
+font-family: cursive;
+padding: 10px 10px;
+}
+h2{
+    color: indigo;
+    font-style: italic;
+    font-weight: bold;
+}
+ul{
+    color: maroon;
+    font-weight: 500;
+    font-size: 15pt;
+    letter-spacing: 2px;
+    margin: 3px;
+    box-sizing: border-box
+}
+h3{
+    color: yellow;
+    font-size: 15pt;
+    font-family: cursive
+}
+h4{
+    color: orangered;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+.briefinformation:{
+    list-style: square;
+}
+div{
+    text-align: center;
+}
+section{
+    text-align: center;
+}
